@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="change_city">Change city</string>
+    <string name="place_not_found">Sorry, no weather data found.</string>
+    <string name="degree_c">C</string>
+    <string name="percent">%</string>
+    <string name="pressure">Pressure:</string>
+    <string name="pascal">hPa</string>
+    <string name="humidity">Humidity:</string>
+</resources>
